@@ -1,5 +1,5 @@
 {
-  "name": "karma-example",
+  "name": "grunt-karma-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
